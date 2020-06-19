@@ -1,0 +1,2 @@
+# ShapGame.PrivacyPolicy
+Privacy Policy
